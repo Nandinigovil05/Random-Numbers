@@ -4,7 +4,7 @@
 ### Coin-toss simulation:
 Consider tossing a coin for 10 times, you may get 6 head 4 tail or 7 head 3 tail or 10 heads(😂) but the chances of getting 5 heads 5 tails
 are maximum,<br> 
-you can proove it easily by P&C (10C5, yes you got it.) for now let' see by by simulating/doing this process for 10k times: 
+you can proove it easily by P&C (10C5, yes you got it.) for now let' see by simulating/doing this process for 10k times: 
 
 ![image](https://user-images.githubusercontent.com/47412487/77350564-b6d73080-6d62-11ea-82da-0611f7a6790c.PNG)
 
